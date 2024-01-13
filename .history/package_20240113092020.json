@@ -2,12 +2,6 @@
   "name": "material-dashboard-2-pro-react-ts",
   "version": "1.0.0",
   "description": "React + TypeScript version of Material Dashboard 2 PRO by Creative Tim",
-  "author": "Ammar-Ahmed-Butt <ammar.butt@atlassiancommunity.com>",
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ammar-ahmed-butt/material-dashboard-2-pro-react-ts-v1.0.1.git"
-  },
   "dependencies": {
     "@asseinfo/react-kanban": "2.2.0",
     "@emotion/cache": "11.10.1",
@@ -44,9 +38,9 @@
     "react-dom": ">=16.8.0",
     "react-flatpickr": "3.10.13",
     "react-images-viewer": "1.7.1",
-    "react-quill": "^2.0.0",
+    "react-quill": "^0.0.2",
     "react-router-dom": "6.3.0",
-    "react-scripts": "^5.0.1",
+    "react-scripts": "^3.0.1",
     "react-table": "7.8.0",
     "stylis": "4.1.1",
     "stylis-plugin-rtl": "2.1.1",
